@@ -32,10 +32,8 @@ header p{
  color: white;
  font-weight: bolder;
  text-shadow: 3px 3px 5px rgb(28, 24, 24);
- padding-left: 10px;
- padding-right: 10px;
+ padding: 20px;
  margin: auto;
- padding: 70px;
  border-bottom-right-radius: 10px;
  
 }
