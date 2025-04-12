@@ -84,7 +84,7 @@ main a{
 main img{
     display: block;
     margin: auto;
-    width: 100%;
+   
 }
 nav{
     background: linear-gradient(to right,#235148, #008000);
